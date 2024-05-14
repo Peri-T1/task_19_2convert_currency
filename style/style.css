@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: grey
+
+}
+.wrapper > div{
+    display: flex;
+    flex-direction: column;
+    /* background-color: red;
+    border: 1px solid;
+    width: 200px;
+    height: 500px; */
+}
